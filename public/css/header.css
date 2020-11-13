@@ -1,0 +1,39 @@
+.navbar-inverse {
+    background-color: #0c2840 !important;
+    border-color: #ea0c0c !important;}
+
+.container-fluid{
+    padding-right: 15!important;
+    padding-left:0!important; 
+}
+
+
+.fa-3x{
+    font-size: 30px!important;
+}
+.navbar-brand{
+    padding: 21px 0px !important;
+    font-size: 30px !important;
+}
+.navbar-inverse .navbar-brand {
+    color: #e3fce7 !important;
+}
+.navbar-nav>li>a {
+    padding-top: 18px!important; ;
+    padding-bottom: 10px !important;
+    font-size: 15px !important;
+}
+
+.user-name{
+;
+   font-style: italic;
+
+    font-weight: bold;
+
+ }
+.navbar-inverse .navbar-nav>li>a {
+    color: #eee!important;}
+
+.print{
+    margin-top: 150px;
+}

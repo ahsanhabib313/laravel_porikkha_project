@@ -1,0 +1,48 @@
+body{
+    background-color: #0a4e0b!important;
+}
+
+.Error{
+    margin-top: 80px!important;
+}
+.UserDeleteContent{
+    color:#f5f5f5!important; ;
+}
+
+.UsderDeleteH1{
+    margin-top: 50px!important;
+}
+
+.changePasswordPanel{
+    margin-top: 46px!important;
+}
+
+.createUserPanel{
+    margin-top: 30px!important;
+}
+
+.gradesheettop{
+    margin-top: 100px;
+}
+
+tr:hover{
+ background-color: #0f0f0f!important;
+}
+
+tr{
+    background-color: #5e0f5c !important;
+}
+
+#class_roll_grade{
+    width: 115px!important;
+}
+
+
+
+#student_name_grade{
+    width: 180px!important;
+}
+
+.jumbotron{
+    background-color: #082508!important;
+}
